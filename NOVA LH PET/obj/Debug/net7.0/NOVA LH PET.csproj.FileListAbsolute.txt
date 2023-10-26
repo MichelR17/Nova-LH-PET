@@ -1,0 +1,6 @@
+C:\Users\michel.rodolfo\OneDrive - Sistema Fiergs\Michel\Curso FullStak\Back-End\Atividade 10B\NOVA LH PET\obj\Debug\net7.0\NOVA LH PET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\michel.rodolfo\OneDrive - Sistema Fiergs\Michel\Curso FullStak\Back-End\Atividade 10B\NOVA LH PET\obj\Debug\net7.0\NOVA LH PET.AssemblyInfoInputs.cache
+C:\Users\michel.rodolfo\OneDrive - Sistema Fiergs\Michel\Curso FullStak\Back-End\Atividade 10B\NOVA LH PET\obj\Debug\net7.0\NOVA LH PET.AssemblyInfo.cs
+C:\Users\michel.rodolfo\OneDrive - Sistema Fiergs\Michel\Curso FullStak\Back-End\Atividade 10B\NOVA LH PET\obj\Debug\net7.0\NOVA LH PET.csproj.CoreCompileInputs.cache
+C:\Users\michel.rodolfo\OneDrive - Sistema Fiergs\Michel\Curso FullStak\Back-End\Atividade 10B\NOVA LH PET\obj\Debug\net7.0\NOVA LH PET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\michel.rodolfo\OneDrive - Sistema Fiergs\Michel\Curso FullStak\Back-End\Atividade 10B\NOVA LH PET\obj\Debug\net7.0\NOVA LH PET.csproj.AssemblyReference.cache

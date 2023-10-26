@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\michel.rodolfo\\OneDrive - Sistema Fiergs\\Michel\\Curso FullStak\\Back-End\\Atividade 10B\\NOVA LH PET\\NOVA LH PET.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\michel.rodolfo\\OneDrive - Sistema Fiergs\\Michel\\Curso FullStak\\Back-End\\Atividade 10B\\NOVA LH PET\\NOVA LH PET.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\michel.rodolfo\\OneDrive - Sistema Fiergs\\Michel\\Curso FullStak\\Back-End\\Atividade 10B\\NOVA LH PET\\NOVA LH PET.csproj",
+        "projectName": "NOVA LH PET",
+        "projectPath": "C:\\Users\\michel.rodolfo\\OneDrive - Sistema Fiergs\\Michel\\Curso FullStak\\Back-End\\Atividade 10B\\NOVA LH PET\\NOVA LH PET.csproj",
+        "packagesPath": "C:\\Users\\michel.rodolfo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\michel.rodolfo\\OneDrive - Sistema Fiergs\\Michel\\Curso FullStak\\Back-End\\Atividade 10B\\NOVA LH PET\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\michel.rodolfo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
